@@ -1,6 +1,6 @@
 [四川大学计算机科学与技术转专业攻略](https://moranfanhua.github.io/archives/2026/SCU_CS_MAJOR/)
 
-这是某人的博客，由于记录杂事。
+这是某人的[博客](https://moranfanhua.github.io/)，由于记录杂事。
 
 ---
 
